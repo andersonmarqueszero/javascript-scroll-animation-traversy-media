@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #efedd6;
+    background-color: #efedd6;
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
@@ -38,7 +38,7 @@ h1 {
     transform: translateX(-400%);
 }
 
-.box .show {
+.box.show {
     transform: translateX(0);
 }
 
